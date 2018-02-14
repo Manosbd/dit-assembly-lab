@@ -15,3 +15,10 @@ https://www.doc.ic.ac.uk/lab/secondyear/spim/node9.html
 
 ### dec hex bin converter
 https://www.mathsisfun.com/binary-decimal-hexadecimal-converter.html
+
+### dokimastikoi arithmoi
+
+- 15454: 11110001011110 => 3C5E
+- 7 -> 000111 mask
+
+Sync : Upload Complete. GIST ID : 9c90e1efb0d21dc49cdcca8495eec7c7 . Please copy and use this ID in other machines to download settings.
