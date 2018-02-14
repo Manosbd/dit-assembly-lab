@@ -1,4 +1,5 @@
-[](http://courses.missouristate.edu/kenvollmar/mars/help/syscallhelp.html)
+### general mips reference material
+http://courses.missouristate.edu/kenvollmar/mars/help/syscallhelp.html
 
 https://inst.eecs.berkeley.edu/~cs61c/resources/MIPS_Green_Sheet.pdf
 
@@ -11,4 +12,6 @@ http://www.mrc.uidaho.edu/mrc/people/jff/digital/MIPSir.html
 https://www.doc.ic.ac.uk/lab/secondyear/spim/node9.html
 
 
+
+### dec hex bin converter
 https://www.mathsisfun.com/binary-decimal-hexadecimal-converter.html
